@@ -1,134 +1,134 @@
 [
   {
-    date: '2015-01-28',
-    loc: '中国-浙江-杭州',
-    url: 'http://www.weibo.com/1897953162/C1Jog91xj',
-    desc: '会见韩国副总理崔炅焕'
+    "date": "2015-01-28",
+    "loc": "中国-浙江-杭州",
+    "url": "http://www.weibo.com/1897953162/C1Jog91xj",
+    "desc": "会见韩国副总理崔炅焕"
   },
   {
-    date: '2015-02-15',
-    loc: '中国-浙江-杭州',
-    url: 'http://qjwb.zjol.com.cn/html/2015-02/16/content_2972884.htm',
-    desc: '马云拿出100万公益资金 资助赵薇“V爱白血病专项基金”'
+    "date": "2015-02-15",
+    "loc": "中国-浙江-杭州",
+    "url": "http://qjwb.zjol.com.cn/html/2015-02/16/content_2972884.htm",
+    "desc": "马云拿出100万公益资金 资助赵薇“V爱白血病专项基金”"
   },
   {
-    date: '2015-03-02',
-    loc: '中国-上海',
-    url: 'http://tech.sina.com.cn/i/2015-03-02/doc-ichmifpx9166950.shtml',
-    desc: '马云会见威廉王子 天猫可直购英国商品'
+    "date": "2015-03-02",
+    "loc": "中国-上海",
+    "url": "http://tech.sina.com.cn/i/2015-03-02/doc-ichmifpx9166950.shtml",
+    "desc": "马云会见威廉王子 天猫可直购英国商品"
   },
   {
-    date: '2015-03-03',
-    loc: '中国-台湾-台北',
-    url: 'http://weibo.com/p/1001603816638838366152',
-    desc: '赴台湾大学做专场演讲'
+    "date": "2015-03-03",
+    "loc": "中国-台湾-台北",
+    "url": "http://weibo.com/p/1001603816638838366152",
+    "desc": "赴台湾大学做专场演讲"
   },
   {
-    date: '2015-03-12',
-    loc: '中国-浙江-杭州',
-    url: 'http://www.weibo.com/2690303253/C8cliDBq2',
-    desc: '参加互联网汽车战略合资合作框架协议签约仪式'
+    "date": "2015-03-12",
+    "loc": "中国-浙江-杭州",
+    "url": "http://www.weibo.com/2690303253/C8cliDBq2",
+    "desc": "参加互联网汽车战略合资合作框架协议签约仪式"
   },
   {
-    date: '2015-03-15',
-    loc: '德国-汉诺威',
-    url: 'http://www.weibo.com/1897953162/C8JNJCab0',
-    desc: '德国汉诺威博览会CeBIT开幕晚会'
+    "date": "2015-03-15",
+    "loc": "德国-汉诺威",
+    "url": "http://www.weibo.com/1897953162/C8JNJCab0",
+    "desc": "德国汉诺威博览会CeBIT开幕晚会"
   },
   {
-    date: '2015-03-16',
-    loc: '德国-汉诺威',
-    url: 'http://www.weibo.com/1897953162/C8Rma5RKT',
-    desc: '德国汉诺威博览会CeBIT'
+    "date": "2015-03-16",
+    "loc": "德国-汉诺威",
+    "url": "http://www.weibo.com/1897953162/C8Rma5RKT",
+    "desc": "德国汉诺威博览会CeBIT"
   },
   {
-    date: '2015-03-17',
-    loc: '意大利-罗马',
-    url: 'http://tech.sina.com.cn/i/2015-03-18/doc-ichmifpy0772074.shtml',
-    desc: '会见意大利总理伦齐'
+    "date": "2015-03-17",
+    "loc": "意大利-罗马",
+    "url": "http://tech.sina.com.cn/i/2015-03-18/doc-ichmifpy0772074.shtml",
+    "desc": "会见意大利总理伦齐"
   },
   {
-    date: '2015-03-19',
-    loc: '法国-巴黎',
-    url: 'http://tech.sina.com.cn/i/2015-03-19/doc-iawzuney0892434.shtml',
-    desc: '会见法总统奥朗德'
+    "date": "2015-03-19",
+    "loc": "法国-巴黎",
+    "url": "http://tech.sina.com.cn/i/2015-03-19/doc-iawzuney0892434.shtml",
+    "desc": "会见法总统奥朗德"
   },
   {
-    date: '2015-03-21',
-    loc: '中国-北京',
-    url: 'http://weibo.com/p/1001603824264393405270',
-    desc: '参加“中国发展高层论坛2015”年会'
+    "date": "2015-03-21",
+    "loc": "中国-北京",
+    "url": "http://weibo.com/p/1001603824264393405270",
+    "desc": "参加“中国发展高层论坛2015”年会"
   },
   {
-    date: '2015-03-27',
-    loc: '中国-浙江-杭州',
-    url: 'http://tech.sina.com.cn/i/2015-03-27/doc-iavxeafs2911183.shtml',
-    desc: '湖畔大学开学典礼'
+    "date": "2015-03-27",
+    "loc": "中国-浙江-杭州",
+    "url": "http://tech.sina.com.cn/i/2015-03-27/doc-iavxeafs2911183.shtml",
+    "desc": "湖畔大学开学典礼"
   },
   {
-    date: '2015-03-30',
-    loc: '印度-新德里',
-    url: 'http://www.weibo.com/1897953162/Cb0Qnz42U',
-    desc: '会见印度总理纳伦德拉·莫迪'
+    "date": "2015-03-30",
+    "loc": "印度-新德里",
+    "url": "http://www.weibo.com/1897953162/Cb0Qnz42U",
+    "desc": "会见印度总理纳伦德拉·莫迪"
   },
   {
-    date: '2015-04-10',
-    loc: '中国-浙江-宁波',
-    url: 'http://www.weibo.com/1897953162/CcDg11UCN',
-    desc: '成立“桃花源生态保护基金会”'
+    "date": "2015-04-10",
+    "loc": "中国-浙江-宁波",
+    "url": "http://www.weibo.com/1897953162/CcDg11UCN",
+    "desc": "成立“桃花源生态保护基金会”"
   },
   {
-    date: '2015-05-08',
-    loc: '中国-浙江-杭州',
-    url: 'http://www.weibo.com/2145291155/CgV2Kw9l2',
-    desc: '第十一届阿里日'
+    "date": "2015-05-08",
+    "loc": "中国-浙江-杭州",
+    "url": "http://www.weibo.com/2145291155/CgV2Kw9l2",
+    "desc": "第十一届阿里日"
   },
   {
-    date: '2015-05-11',
-    loc: '中国-福建-福州',
-    url: 'http://fj.sina.com.cn/minshang/tttj/2015-05-12/094019618.html',
-    desc: '与福建省人民政府签署战略合作协议'
+    "date": "2015-05-11",
+    "loc": "中国-福建-福州",
+    "url": "http://fj.sina.com.cn/minshang/tttj/2015-05-12/094019618.html",
+    "desc": "与福建省人民政府签署战略合作协议"
   },
   {
-    date: '2015-05-12',
-    loc: '中国-浙江-杭州',
-    url: 'http://tech.sina.com.cn/i/2015-05-12/doc-iawzuney5442696.shtml',
-    desc: '会见迪拜Meraas控股集团总裁阿卜杜拉-哈拜'
+    "date": "2015-05-12",
+    "loc": "中国-浙江-杭州",
+    "url": "http://tech.sina.com.cn/i/2015-05-12/doc-iawzuney5442696.shtml",
+    "desc": "会见迪拜Meraas控股集团总裁阿卜杜拉-哈拜"
   },
   {
-    date: '2015-05-16',
-    loc: '中国-上海',
-    url: 'http://news.youth.cn/kj/201505/t20150518_6640631.htm',
-    desc: '印度总理莫迪访沪拉马云私聊'
+    "date": "2015-05-16",
+    "loc": "中国-上海",
+    "url": "http://news.youth.cn/kj/201505/t20150518_6640631.htm",
+    "desc": "印度总理莫迪访沪拉马云私聊"
   },
   {
-    date: '2015-05-18',
-    loc: '韩国-首尔',
-    url: 'http://difang.gmw.cn/newspaper/2015-05/21/content_106764098.htm',
-    desc: '出席天猫“韩国馆”开馆仪式'
+    "date": "2015-05-18",
+    "loc": "韩国-首尔",
+    "url": "http://difang.gmw.cn/newspaper/2015-05/21/content_106764098.htm",
+    "desc": "出席天猫“韩国馆”开馆仪式"
   },
   {
-    date: '2015-05-19',
-    loc: '韩国-首尔',
-    url: 'http://finance.sina.com.cn/leadership/mroll/20150519/114022214398.shtml',
-    desc: '与韩国副总理崔炅焕一同现身韩国KBS电视台，录制一档“特别节目”'
+    "date": "2015-05-19",
+    "loc": "韩国-首尔",
+    "url": "http://finance.sina.com.cn/leadership/mroll/20150519/114022214398.shtml",
+    "desc": "与韩国副总理崔炅焕一同现身韩国KBS电视台，录制一档“特别节目”"
   },
   {
-    date: '2015-05-20',
-    loc: '中国-浙江-杭州',
-    url: 'http://media.people.com.cn/n/2015/0521/c40606-27032413.html',
-    desc: '全球女性创业者大会'
+    "date": "2015-05-20",
+    "loc": "中国-浙江-杭州",
+    "url": "http://media.people.com.cn/n/2015/0521/c40606-27032413.html",
+    "desc": "全球女性创业者大会"
   },
   {
-    date: '2015-05-26',
-    loc: '中国-贵州-贵阳',
-    url: 'http://mi.techweb.com.cn/news/2015-05-26/2157171.shtml',
-    desc: '2015贵阳数博会'
+    "date": "2015-05-26",
+    "loc": "中国-贵州-贵阳",
+    "url": "http://mi.techweb.com.cn/news/2015-05-26/2157171.shtml",
+    "desc": "2015贵阳数博会"
   },
   {
-    date: '2015-05-27',
-    loc: '中国-贵州-贵阳',
-    url: 'http://it.people.com.cn/n/2015/0527/c1009-27061967.html',
-    desc: '2015贵阳数博会'
+    "date": "2015-05-27",
+    "loc": "中国-贵州-贵阳",
+    "url": "http://it.people.com.cn/n/2015/0527/c1009-27061967.html",
+    "desc": "2015贵阳数博会"
   }
 ]
